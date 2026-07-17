@@ -1,0 +1,22 @@
+.box {
+  display: inline-block;
+  width: 70px;
+  height: 30px;
+
+  text-align: center;
+  line-height: 25px;
+  text-decoration: none;
+  border: 2px solid black;
+}
+.box {
+  background-color: pink;
+}
+.box.yellow {
+  background-color: greenyellow;
+}
+h1 {
+  color: blue;
+}
+.box.red {
+  background-color: red;
+}
